@@ -1,51 +1,14 @@
-html,
-body {
-    margin: 0;
-    padding: 0;
-    overflow-x: hidden;
+* {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
 }
 
-/* copy selection */
-::selection {
-    background: #000;
-    color: #fff;
-}
-
-::-moz-selection {
-    background: #000;
-    color: #fff;
-}
-
-::-webkit-selection {
-    background: #000;
-    color: #fff;
-}
-
-/* roll scroll-bar */
 ::-webkit-scrollbar {
-    width: 7px;
-    height: 7px;
+    display: none
 }
 
-::-webkit-scrollbar-track {
-    background-color: #fff;
-    border-radius: 7px;
-}
-
-::-webkit-scrollbar-thumb {
-    background-color: #49b1f5;
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.4) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.4) 50%, rgba(255, 255, 255, 0.4) 75%, transparent 75%, transparent);
-    border-radius: 7px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: #007aff;
-    opacity: 1;
-    display: block !important
-}
-
-::-webkit-scrollbar-corner {
-    background-color: transparent;
+a {
+    text-decoration: none;
 }
 
 /* cursor */
@@ -57,15 +20,10 @@ html,
 }
 
 a,
+i,
 img,
-#aplayer *,
 .el-button,
 .el-radio-group *,
-#Valine svg,
-#Valine button,
-#Gitalk svg,
-#Gitalk button,
-#Gitalk .gt-user *,
 .el-table__expand-icon,
 .el-table__expand-icon--expanded,
 .el-table a,

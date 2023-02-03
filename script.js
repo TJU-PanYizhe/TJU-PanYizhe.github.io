@@ -1,13 +1,3 @@
-// alter title by JS
-var tempTitle = document.title;
-window.onfocus = function () {
-    document.title = tempTitle;
-}
-window.onblur = function () {
-    tempTitle = document.title
-    document.title = "Waiting For You ^_^";
-}
-
 var myDate = new Date();
 
 // Print some information on console
