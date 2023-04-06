@@ -1,15 +1,3 @@
-var myDate = new Date();
-
-// Birthday | New Year
-window.onload = function () {
-    if (myDate.getMonth() + 1 == 7 && myDate.getDate() == 28) {
-        alert("🥂今天是博主的生日哦!🥂")
-    }
-    else if (myDate.getMonth() + 1 == 1 && myDate.getDate() == 1) {
-        alert("😊新的一年祝您身体健康, 心想事成, 阖家团圆, 万事如意!😊")
-    }
-}
-
 // Jarvis
 function Jarvis() {
     console.log('Jarvis is my co-pilot')
