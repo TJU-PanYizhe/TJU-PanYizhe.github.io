@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkpyz_vue3"]=self["webpackChunkpyz_vue3"]||[]).push([[133],{5133:function(u,n,e){e.r(n),e.d(n,{default:function(){return p}});var r=e(3396);function t(u,n){return(0,r.wg)(),(0,r.iD)("p",null,"About")}var c=e(89);const a={},f=(0,c.Z)(a,[["render",t]]);var p=f}}]);
-//# sourceMappingURL=133.79ec5a59.js.map
