@@ -7,6 +7,6 @@ window.onload = () => {
     setTimeout(() => {
         console.clear()
         console.log('Vue3: ', 'https://cn.vuejs.org/')
-        console.log('ElementPlus: ', 'https://element-plus.org/zh-CN/')
+        console.log('ElementPlus: ', 'https://element-plus.gitee.io/zh-CN/')
     }, 300)
 }
