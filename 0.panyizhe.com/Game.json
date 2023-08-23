@@ -41,7 +41,7 @@
             "userName": "OneRisePan",
             "link": "https://sr.mihoyo.com/",
             "moreInfo": "副游 - 官服开服休闲玩家<br>愿此行, 终抵群星",
-            "like": 4.5,
+            "like": 5,
             "love": {
                 "flag": true,
                 "route": "sr"
@@ -52,7 +52,7 @@
             "userName": "ChAI",
             "link": "https://bh3.mihoyo.com/",
             "moreInfo": "为世界上所有的美好而战",
-            "like": 4,
+            "like": 4.5,
             "love": false
         },
         {
@@ -68,7 +68,7 @@
             "userName": "OneRisePan",
             "link": "https://www.taptap.cn/app/213181",
             "moreInfo": "携手共战 修正未来",
-            "like": 3.5,
+            "like": 3,
             "love": false
         }
     ]
