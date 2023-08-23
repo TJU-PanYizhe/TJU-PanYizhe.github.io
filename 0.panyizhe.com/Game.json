@@ -1,0 +1,75 @@
+{
+    "platforms": [
+        {
+            "pName": "TapTap",
+            "uName": "OneRisePan",
+            "link": "https://www.taptap.cn/user/2478544",
+            "color": "#15c5ce"
+        },
+        {
+            "pName": "米游社",
+            "uName": "OneRisePan",
+            "link": "https://www.miyoushe.com/ys/accountCenter/postList?id=317931014",
+            "color": "rgb(102,224,255)"
+        }
+    ],
+    "games": [
+        {
+            "gameName": "英雄联盟",
+            "userName": "CheeseburgerIM",
+            "link": "https://lol.qq.com",
+            "moreInfo": "网三 - 弗雷尔卓德<br>因为热爱，所以联盟",
+            "like": 5,
+            "love": {
+                "flag": true,
+                "route": "lol"
+            }
+        },
+        {
+            "gameName": "原神",
+            "userName": "OneRisePan",
+            "link": "https://ys.mihoyo.com",
+            "moreInfo": "官服 - 3.2草神版本入坑<br>旅程总有一天会迎来终点，不必匆忙",
+            "like": 5,
+            "love": {
+                "flag": true,
+                "route": "ys"
+            }
+        },
+        {
+            "gameName": "崩坏星穹铁道",
+            "userName": "OneRisePan",
+            "link": "https://sr.mihoyo.com/",
+            "moreInfo": "副游 - 官服开服休闲玩家<br>愿此行, 终抵群星",
+            "like": 4.5,
+            "love": {
+                "flag": true,
+                "route": "sr"
+            }
+        },
+        {
+            "gameName": "崩坏3",
+            "userName": "ChAI",
+            "link": "https://bh3.mihoyo.com/",
+            "moreInfo": "为世界上所有的美好而战",
+            "like": 4,
+            "love": false
+        },
+        {
+            "gameName": "尘白禁区",
+            "userName": "派大星星Star",
+            "link": "https://www.cbjq.com",
+            "moreInfo": "此刻，踏入禁区",
+            "like": 3,
+            "love": false
+        },
+        {
+            "gameName": "深空之眼",
+            "userName": "OneRisePan",
+            "link": "https://www.taptap.cn/app/213181",
+            "moreInfo": "携手共战 修正未来",
+            "like": 3.5,
+            "love": false
+        }
+    ]
+}

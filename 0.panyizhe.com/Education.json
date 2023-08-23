@@ -1,0 +1,16 @@
+{
+    "educations": [
+        {
+            "start": 2023,
+            "end": 2026,
+            "name": "Tianjin University",
+            "content": "CIC - Cloud Computing & Serverless - Master<br><p>2023/08/31 报到开学</p><a href='https://t.bilibili.com/778301460711473189' target='_blank'>2023/03/28 一研为定</a><p>2023/03/25 完成复试</p><a href='https://t.bilibili.com/765173480852291602' target='_blank'>2023/02/21 初试成绩</a>"
+        },
+        {
+            "start": 2019,
+            "end": 2023,
+            "name": "Tianjin University",
+            "content": "CIC - Software Engineering - Bachelor"
+        }
+    ]
+}
