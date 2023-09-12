@@ -2,6 +2,7 @@
 // if (location.protocol.startsWith('https')) {
 //     location.replace(location.origin.replace('https', 'http'))
 // }
+// WebAssembly Test
 function WASM() {
     console.log(WebAssembly);
     function fetchAndInstantiate(url, importObject) {
