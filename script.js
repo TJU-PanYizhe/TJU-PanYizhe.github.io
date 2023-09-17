@@ -4,7 +4,7 @@
 // }
 // WebAssembly Test
 function WASM() {
-    console.log(WebAssembly);
+    // console.log(WebAssembly);
     function fetchAndInstantiate(url, importObject) {
         return fetch(url)
             .then((response) => response.arrayBuffer())
@@ -21,6 +21,7 @@ function WASM() {
             // console.log(exports.minus(10, 3));
         })
 }
+
 // 控制台输出信息
 window.onload = () => {
     setTimeout(() => {
