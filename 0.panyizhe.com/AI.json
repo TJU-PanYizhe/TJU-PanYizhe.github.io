@@ -1,0 +1,15 @@
+{
+  "AI": [
+    {
+      "corporation": "阿里云",
+      "website": "https://tongyi.aliyun.com/",
+      "models": [
+        {
+          "name": "通义千问",
+          "link": "",
+          "desc": ""
+        }
+      ]
+    }
+  ]
+}
