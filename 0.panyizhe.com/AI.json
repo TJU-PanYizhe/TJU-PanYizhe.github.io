@@ -6,8 +6,34 @@
       "models": [
         {
           "name": "通义千问",
-          "link": "",
-          "desc": ""
+          "link": "https://tongyi.aliyun.com/qianwen",
+          "desc": "一个不断进化的AI大模型"
+        },
+        {
+          "name": "通义万相",
+          "link": "https://tongyi.aliyun.com/wanxiang",
+          "desc": "一个不断进化的人工智能艺术创作大模型"
+        },
+        {
+          "name": "通义听悟",
+          "link": "https://tongyi.aliyun.com/tingwu",
+          "desc": "万语千言 心领神悟"
+        },
+        {
+          "name": "通义智文",
+          "link": "https://tongyi.aliyun.com/zhiwen",
+          "desc": "更懂你的AI阅读助手"
+        }
+      ]
+    },
+    {
+      "corporation": "百度智能云",
+      "website": "https://cloud.baidu.com/",
+      "models": [
+        {
+          "name": "文心一言",
+          "link": "https://yiyan.baidu.com/",
+          "desc": "文心一言 有用、有趣、有温度"
         }
       ]
     }
