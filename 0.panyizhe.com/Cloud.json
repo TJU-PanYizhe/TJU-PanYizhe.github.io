@@ -1,0 +1,85 @@
+{
+  "Cloud": [
+    {
+      "corporation": "阿里云",
+      "website": "https://tongyi.aliyun.com/",
+      "models": [
+        {
+          "name": "通义千问",
+          "link": "https://tongyi.aliyun.com/qianwen",
+          "desc": "一个不断进化的AI大模型"
+        },
+        {
+          "name": "通义万相",
+          "link": "https://tongyi.aliyun.com/wanxiang",
+          "desc": "一个不断进化的人工智能艺术创作大模型"
+        },
+        {
+          "name": "通义听悟",
+          "link": "https://tongyi.aliyun.com/tingwu",
+          "desc": "万语千言 心领神悟"
+        },
+        {
+          "name": "通义智文",
+          "link": "https://tongyi.aliyun.com/zhiwen",
+          "desc": "更懂你的AI阅读助手"
+        }
+      ]
+    },
+    {
+      "corporation": "百度智能云",
+      "website": "https://cloud.baidu.com/",
+      "models": [
+        {
+          "name": "文心一言",
+          "link": "https://yiyan.baidu.com/",
+          "desc": "文心一言 有用、有趣、有温度"
+        }
+      ]
+    },
+    {
+      "corporation": "腾讯云",
+      "website": "https://cloud.tencent.com/",
+      "models": [
+        {
+          "name": "云函数 SCF",
+          "link": "https://cloud.tencent.com/product/scf",
+          "desc": "Serverless Cloud Function"
+        }
+      ]
+    },
+    {
+      "corporation": "华为云",
+      "website": "https://www.huaweicloud.com/",
+      "models": [
+        {
+          "name": "函数工作流",
+          "link": "https://www.huaweicloud.com/product/functiongraph.html",
+          "desc": "FunctionGraph"
+        }
+      ]
+    },
+    {
+      "corporation": "Azure",
+      "website": "https://azure.microsoft.com/zh-cn/",
+      "models": [
+        {
+          "name": "Azure Functions",
+          "link": "https://azure.microsoft.com/zh-cn/products/functions/",
+          "desc": "在端到端的开发体验中执行事件驱动的无服务器代码函数"
+        }
+      ]
+    },
+    {
+      "corporation": "PromeAI",
+      "website": "https://www.ishencai.com/",
+      "models": [
+        {
+          "name": "Img Outpaint",
+          "link": "https://www.ishencai.com/outpainting-expand-images",
+          "desc": "根据比例或尺寸进行图片内容外拓"
+        }
+      ]
+    }
+  ]
+}
