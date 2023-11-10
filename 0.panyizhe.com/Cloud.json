@@ -42,6 +42,11 @@
       "website": "https://cloud.tencent.com/",
       "models": [
         {
+          "name": "腾讯混元",
+          "link": "https://hunyuan.tencent.com/bot/chat",
+          "desc": "Tencent Hunyuan"
+        },
+        {
           "name": "云函数 SCF",
           "link": "https://cloud.tencent.com/product/scf",
           "desc": "Serverless Cloud Function"
