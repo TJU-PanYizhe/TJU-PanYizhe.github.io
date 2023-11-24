@@ -1,6 +1,13 @@
 {
   "projects": [
     {
+      "name": "ReTail",
+      "job": "尝试复现",
+      "time": "2023.11 — 20??.??",
+      "content": "ReTail, a QoS-aware power manager for latency-critical applications using request-level latency prediction. ReTail systematically selects the features that best correlate with request latency for a general LC application, and builds a latency predictor using linear regression. ReTail achieves an average of 8.9% (up to 35.6%) power savings compared with the best related work, while meeting QoS.",
+      "repository": "https://gitee.com/PanYizhe/ReTail"
+    },
+    {
       "name": "Serverless on RISC-V",
       "job": "验证Serverless在RISC-V架构上的可行性",
       "time": "2023.11 — 20??.??",

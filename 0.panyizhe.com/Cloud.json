@@ -27,13 +27,18 @@
       ]
     },
     {
-      "corporation": "百度智能云",
-      "website": "https://cloud.baidu.com/",
+      "corporation": "文心大模型",
+      "website": "https://wenxin.baidu.com/",
       "models": [
         {
           "name": "文心一言",
           "link": "https://yiyan.baidu.com/",
           "desc": "文心一言 有用、有趣、有温度"
+        },
+        {
+          "name": "文心一格",
+          "link": "https://yige.baidu.com/",
+          "desc": "AI艺术和创意辅助平台"
         }
       ]
     },
