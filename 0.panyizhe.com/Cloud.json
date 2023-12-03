@@ -81,13 +81,18 @@
       ]
     },
     {
-      "corporation": "PromeAI",
-      "website": "https://www.ishencai.com/",
+      "corporation": "Others",
+      "website": "#",
       "models": [
         {
-          "name": "Img Outpaint",
-          "link": "https://www.ishencai.com/outpainting-expand-images",
-          "desc": "根据比例或尺寸进行图片内容外拓"
+          "name": "PromeAI",
+          "link": "https://www.ishencai.com/",
+          "desc": "让创意照进现实<br>尺寸外扩 - 背景生成 - 图生视频"
+        },
+        {
+          "name": "TiamatAI",
+          "link": "https://www.tiamat.com/",
+          "desc": "点燃无限创想"
         }
       ]
     }
