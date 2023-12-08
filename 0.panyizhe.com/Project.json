@@ -1,18 +1,18 @@
 {
   "projects": [
     {
-      "name": "ReTail",
-      "job": "尝试复现",
-      "time": "2023.11 — 20??.??",
-      "content": "ReTail, a QoS-aware power manager for latency-critical applications using request-level latency prediction. ReTail systematically selects the features that best correlate with request latency for a general LC application, and builds a latency predictor using linear regression. ReTail achieves an average of 8.9% (up to 35.6%) power savings compared with the best related work, while meeting QoS.",
-      "repository": "https://gitee.com/PanYizhe/ReTail"
-    },
-    {
       "name": "Serverless on RISC-V",
       "job": "验证Serverless在RISC-V架构上的可行性",
       "time": "2023.11 — 20??.??",
       "content": "RISC-V（发音为“risk-five”）是一个基于精简指令集（RISC）原则的开源指令集架构（ISA）。与大多数指令集相比，RISC-V指令集可以自由地用于任何目的，允许任何人设计、制造和销售RISC-V芯片和软件。",
       "repository": "https://gitee.com/PanYizhe/Serverless_on_RISC-V"
+    },
+    {
+      "name": "ReTail",
+      "job": "尝试复现",
+      "time": "2023.11 — 20??.??",
+      "content": "ReTail, a QoS-aware power manager for latency-critical applications using request-level latency prediction. ReTail systematically selects the features that best correlate with request latency for a general LC application, and builds a latency predictor using linear regression. ReTail achieves an average of 8.9% (up to 35.6%) power savings compared with the best related work, while meeting QoS.",
+      "repository": "https://gitee.com/PanYizhe/ReTail"
     },
     {
       "name": "Yet-Another-Serverless-Benchmark",
