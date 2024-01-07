@@ -37,22 +37,11 @@
       }
     },
     {
-      "gameName": "崩坏星穹铁道",
-      "userName": "爱吃肉的小龙",
-      "link": "https://sr.mihoyo.com/",
-      "moreInfo": "官服开服玩家<br><a href='https://docs.qq.com/doc/DVHhxbUpad0VLd2hj' target='_blank' rel='noopener noreferrer'>愿此行, 终抵群星</a>",
-      "like": 4.5,
-      "love": {
-        "flag": true,
-        "route": "sr"
-      }
-    },
-    {
       "gameName": "绝区零",
       "userName": "???",
       "link": "https://zzz.mihoyo.com/",
       "moreInfo": "期待...",
-      "like": 4,
+      "like": 4.5,
       "love": {
         "flag": true,
         "route": "zzz"
@@ -60,11 +49,30 @@
     },
     {
       "gameName": "明日方舟终末地",
-      "userName": "...",
+      "userName": "???",
       "link": "https://endfield.hypergryph.com/",
+      "moreInfo": "观望...",
+      "like": 4,
+      "love": false
+    },
+    {
+      "gameName": "鸣潮",
+      "userName": "???",
+      "link": "https://mc.kurogame.com/",
       "moreInfo": "观望...",
       "like": 3.5,
       "love": false
+    },
+    {
+      "gameName": "崩坏星穹铁道",
+      "userName": "爱吃肉的小龙",
+      "link": "https://sr.mihoyo.com/",
+      "moreInfo": "官服开服玩家<br><a href='https://docs.qq.com/doc/DVHhxbUpad0VLd2hj' target='_blank' rel='noopener noreferrer'>愿此行, 终抵群星</a>",
+      "like": 3,
+      "love": {
+        "flag": false,
+        "route": "sr"
+      }
     },
     {
       "gameName": "崩坏3",
@@ -75,19 +83,11 @@
       "love": false
     },
     {
-      "gameName": "鸣潮",
-      "userName": "...",
-      "link": "https://mc.kurogame.com/",
-      "moreInfo": "观望...",
-      "like": 3,
-      "love": false
-    },
-    {
       "gameName": "尘白禁区",
       "userName": "...",
       "link": "https://www.cbjq.com",
       "moreInfo": "此刻，踏入禁区",
-      "like": 2.5,
+      "like": false,
       "love": false
     },
     {
@@ -95,7 +95,7 @@
       "userName": "...",
       "link": "https://www.taptap.cn/app/213181",
       "moreInfo": "携手共战 修正未来",
-      "like": 2,
+      "like": false,
       "love": false
     }
   ]
