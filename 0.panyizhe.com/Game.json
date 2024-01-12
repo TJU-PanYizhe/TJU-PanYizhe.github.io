@@ -41,7 +41,7 @@
       "userName": "爱吃肉的小龙",
       "link": "https://sr.mihoyo.com/",
       "moreInfo": "官服开服玩家<br><a href='https://docs.qq.com/doc/DVHhxbUpad0VLd2hj' target='_blank' rel='noopener noreferrer'>愿此行, 终抵群星</a>",
-      "like": 4.6,
+      "like": false,
       "love": {
         "flag": true,
         "route": "sr"
@@ -51,19 +51,27 @@
       "gameName": "绝区零",
       "userName": "???",
       "link": "https://zzz.mihoyo.com/",
-      "moreInfo": "期待...<br>Zenless Zone Zero",
-      "like": 4.4,
+      "moreInfo": "期待!!!<br>Zenless Zone Zero",
+      "like": false,
       "love": {
-        "flag": true,
+        "flag": false,
         "route": "zzz"
       }
+    },
+    {
+      "gameName": "崩坏3",
+      "userName": "...",
+      "link": "https://bh3.mihoyo.com/",
+      "moreInfo": "为世界上所有的美好而战<br>7.3版本崩坏3第二部入坑",
+      "like": false,
+      "love": false
     },
     {
       "gameName": "明日方舟终末地",
       "userName": "???",
       "link": "https://endfield.hypergryph.com/",
       "moreInfo": "观望...",
-      "like": 4,
+      "like": false,
       "love": false
     },
     {
@@ -71,14 +79,6 @@
       "userName": "???",
       "link": "https://mc.kurogame.com/",
       "moreInfo": "观望...",
-      "like": 3.5,
-      "love": false
-    },
-    {
-      "gameName": "崩坏3",
-      "userName": "...",
-      "link": "https://bh3.mihoyo.com/",
-      "moreInfo": "为世界上所有的美好而战",
       "like": false,
       "love": false
     },

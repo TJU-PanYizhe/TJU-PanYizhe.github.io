@@ -81,6 +81,27 @@
       ]
     },
     {
+      "corporation": "Cloud Game",
+      "website": "#",
+      "models": [
+        {
+          "name": "网易云游戏",
+          "link": "https://cg.163.com/",
+          "desc": "海量游戏即点即玩"
+        },
+        {
+          "name": "START云游戏",
+          "link": "https://start.qq.com/",
+          "desc": "面向未来的原生云游戏技术解决方案"
+        },
+        {
+          "name": "腾讯先锋",
+          "link": "https://gamer.qq.com/",
+          "desc": "畅玩就现在"
+        }
+      ]
+    },
+    {
       "corporation": "Others",
       "website": "#",
       "models": [
