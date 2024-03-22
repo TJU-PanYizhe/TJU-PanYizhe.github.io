@@ -1,6 +1,13 @@
 {
   "projects": [
     {
+      "name": "面向RISC-V架构的AI开发框架构建与优化大赛",
+      "job": "基于RISC-V的目标检测及人机对话系统",
+      "time": "2024.02.20 — 20??.??",
+      "content": "当今人工智能技术已经广泛应用于诸多领域，并呈现出快速发展的态势，众多优秀的AI开发框架已经在多种计算平台上取得了巨大成功。然而，针对RISC-V架构的AI开发框架尚处于起步阶段，尚未涌现出一个经过专门构建和优化的AI开发框架，能够充分发挥RISC-V的独特优势。",
+      "repository": "https://atomgit.com/openkylin/RISCV-AI-2024"
+    },
+    {
       "name": "Serverless on RISC-V",
       "job": "验证Serverless在RISC-V架构上的可行性",
       "time": "2023.11 — 20??.??",
@@ -17,7 +24,7 @@
     {
       "name": "Yet-Another-Serverless-Benchmark",
       "job": "科学计算代码适配",
-      "time": "2023.5 — 20??.??",
+      "time": "2023.05 — 20??.??",
       "content": "拟开发具有生产环境代表性的函数应用，关注无状态函数与有状态函数的数据传递和状态管理，并且函数的资源消耗接近华为云内同类真实应用的开销数据。最终目标是指导更多用户的应用程序部署在serverless平台，并使用benchmark的形式探索serverless平台的应用程序边界。",
       "repository": "https://gitee.com/PanYizhe/Master_Yet-Another-Serverless-Benchmark"
     },
@@ -31,21 +38,21 @@
     {
       "name": "北洋教学教考分离系统",
       "job": "后端负责人",
-      "time": "2022.3 — 2022.5",
+      "time": "2022.03 — 2022.05",
       "content": "主持系统后端的设计、开发、测试以及部署。包括用户、班级、考试、题目、判卷、分析等模块。支持学生进行线上考试、错题纠正、试卷分析等功能。教师端为教师提供智能组卷、自动判断、班级分析等功能。系统设计复杂，在开发过程中体会到了团队沟通与合作的重要性。学习了SpringBoot、MySQL以及服务器的开发知识。为该项目成果申请了软件著作权并荣获服创比赛国家三等奖。",
       "repository": "https://gitee.com/PanYizhe/SuperExam"
     },
     {
       "name": "VClass云端虚拟教研室",
       "job": "后端负责人",
-      "time": "2021.9 — 2021.10",
+      "time": "2021.09 — 2021.10",
       "content": "首次接触前后端项目。负责后端系统的搭建，根据需求分析创建数据库。为用户提供课程建立与维护，课程表，思维导图等功能。为该项目成果申请了软件著作权。",
       "repository": "https://gitee.com/PanYizhe/VirtualClass"
     },
     {
       "name": "智算学部院级大创",
       "job": "项目负责人",
-      "time": "2021.5 — 2022.5",
+      "time": "2021.05 — 2022.05",
       "content": "基于ORB-SLAM2算法的Android手机实时定位。负责把使用C语言编写的算法移植到基于Java语言的手机上。",
       "repository": ""
     }
