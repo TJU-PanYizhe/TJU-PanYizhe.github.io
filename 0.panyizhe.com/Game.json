@@ -38,7 +38,7 @@
     },
     {
       "gameName": "崩坏星穹铁道",
-      "userName": "爱吃肉的小龙",
+      "userName": "...",
       "link": "https://sr.mihoyo.com/",
       "moreInfo": "官服开服玩家<br><a href='https://docs.qq.com/doc/DVHhxbUpad0VLd2hj' target='_blank' rel='noopener noreferrer'>愿此行, 终抵群星</a>",
       "like": false,
@@ -63,40 +63,34 @@
       "userName": "...",
       "link": "https://bh3.mihoyo.com/",
       "moreInfo": "为世界上所有的美好而战",
-      "like": false,
-      "love": false
-    },
-    {
-      "gameName": "明日方舟终末地",
-      "userName": "???",
-      "link": "https://endfield.hypergryph.com/",
-      "moreInfo": "观望...",
-      "like": false,
-      "love": false
-    },
-    {
-      "gameName": "鸣潮",
-      "userName": "???",
-      "link": "https://mc.kurogame.com/",
-      "moreInfo": "观望...",
-      "like": false,
-      "love": false
+      "like": false
     },
     {
       "gameName": "尘白禁区",
       "userName": "...",
       "link": "https://www.cbjq.com",
       "moreInfo": "此刻，踏入禁区",
-      "like": false,
-      "love": false
+      "like": false
+    }
+  ],
+  "future_games": [
+    {
+      "gameName": "明日方舟终末地",
+      "userName": "???",
+      "link": "https://endfield.hypergryph.com/",
+      "moreInfo": "观望..."
     },
     {
-      "gameName": "深空之眼",
-      "userName": "...",
-      "link": "https://www.taptap.cn/app/213181",
-      "moreInfo": "携手共战 修正未来",
-      "like": false,
-      "love": false
+      "gameName": "蓝色星原：旅谣",
+      "userName": "???",
+      "link": "https://azurpromilia.manjuu.com/",
+      "moreInfo": "观望..."
+    },
+    {
+      "gameName": "鸣潮",
+      "userName": "???",
+      "link": "https://mc.kurogame.com/",
+      "moreInfo": "观望..."
     }
   ]
 }
