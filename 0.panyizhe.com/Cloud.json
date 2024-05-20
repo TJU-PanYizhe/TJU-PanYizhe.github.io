@@ -102,6 +102,22 @@
       ]
     },
     {
+      "corporation": "Cloud Tool",
+      "website": "#",
+      "models": [
+        {
+          "name": "腾讯文档",
+          "link": "https://docs.qq.com/",
+          "desc": "让协作更高效，创作更轻松"
+        },
+        {
+          "name": "有道云笔记",
+          "link": "https://note.youdao.com/",
+          "desc": "记录，成为更好的自己"
+        }
+      ]
+    },
+    {
       "corporation": "Others",
       "website": "#",
       "models": [
@@ -114,6 +130,11 @@
           "name": "TiamatAI",
           "link": "https://www.tiamat.com/",
           "desc": "点燃无限创想"
+        },
+        {
+          "name": "KimiAI",
+          "link": "https://kimi.moonshot.cn/",
+          "desc": "帮你看更大的世界"
         }
       ]
     }
