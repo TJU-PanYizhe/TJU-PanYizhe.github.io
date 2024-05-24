@@ -1,16 +1,39 @@
 {
   "platforms": [
     {
+      "pName": "WeGame",
+      "uName": "",
+      "link": "https://www.wegame.com.cn/",
+      "intro": "一起更好玩",
+      "color": "rgb(255,151,0)"
+    },
+    {
       "pName": "TapTap",
-      "uName": "OneRisePan",
-      "link": "https://www.taptap.cn/user/2478544",
-      "color": "#15c5ce"
+      "uName": "",
+      "link": "https://www.taptap.cn/",
+      "intro": "发现好游戏",
+      "color": "rgb(0,217,197)"
     },
     {
       "pName": "米游社",
-      "uName": "OneRisePan",
-      "link": "https://www.miyoushe.com/ys/accountCenter/postList?id=317931014",
+      "uName": "",
+      "link": "https://www.miyoushe.com/",
+      "intro": "米哈游官方社区",
       "color": "rgb(102,224,255)"
+    },
+    {
+      "pName": "森空岛",
+      "uName": "",
+      "link": "https://www.skland.com/",
+      "intro": "鹰角网络官方社区",
+      "color": "rgb(200,235,33)"
+    },
+    {
+      "pName": "库街区",
+      "uName": "",
+      "link": "https://www.kurobbs.com/",
+      "intro": "库洛游戏官方社区",
+      "color": "rgb(230,235,239)"
     }
   ],
   "games": [
@@ -37,7 +60,7 @@
       }
     },
     {
-      "gameName": "崩坏星穹铁道",
+      "gameName": "崩坏：星穹铁道",
       "userName": "...",
       "link": "https://sr.mihoyo.com/",
       "moreInfo": "官服开服玩家<br><a href='https://docs.qq.com/doc/DVHhxbUpad0VLd2hj' target='_blank' rel='noopener noreferrer'>愿此行, 终抵群星</a>",
@@ -71,11 +94,17 @@
       "link": "https://www.cbjq.com",
       "moreInfo": "此刻，踏入禁区",
       "like": false
+    },
+    {
+      "gameName": "鸣潮",
+      "userName": "...",
+      "link": "https://mc.kurogame.com/",
+      "moreInfo": "潮声循环往复，文明再度启程"
     }
   ],
   "future_games": [
     {
-      "gameName": "明日方舟终末地",
+      "gameName": "明日方舟：终末地",
       "userName": "???",
       "link": "https://endfield.hypergryph.com/",
       "moreInfo": "观望..."
@@ -87,9 +116,9 @@
       "moreInfo": "观望..."
     },
     {
-      "gameName": "鸣潮",
+      "gameName": "二重螺旋",
       "userName": "???",
-      "link": "https://mc.kurogame.com/",
+      "link": "https://dna.yingxiong.com/",
       "moreInfo": "观望..."
     }
   ]
