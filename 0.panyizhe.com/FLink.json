@@ -1,0 +1,36 @@
+{
+  "flinks": {
+    "friends": [],
+    "tools": [
+      {
+        "name": "Github1s",
+        "url": "https://github1s.com/",
+        "desc": ""
+      },
+      {
+        "name": "Element Plus",
+        "url": "https://element-plus.org/zh-CN/"
+      },
+      {
+        "name": "iLovePDF",
+        "url": "https://www.ilovepdf.com/zh-cn"
+      },
+      {
+        "name": "ReadPaper",
+        "url": "https://readpaper.com/"
+      },
+      {
+        "name": "123APPS",
+        "url": "https://123apps.com/cn/"
+      },
+      {
+        "name": "Compiler Explorer",
+        "url": "https://godbolt.org/"
+      },
+      {
+        "name": "搜图神器",
+        "url": "https://www.soutushenqi.com/"
+      }
+    ]
+  }
+}
