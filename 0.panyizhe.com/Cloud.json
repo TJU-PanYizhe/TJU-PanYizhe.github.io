@@ -39,6 +39,11 @@
           "name": "文心一格",
           "link": "https://yige.baidu.com/",
           "desc": "AI艺术和创意辅助平台"
+        },
+        {
+          "name": "Baidu Comate",
+          "link": "https://comate.baidu.com/zh",
+          "desc": "Coding mate, Pair you create"
         }
       ]
     },
@@ -114,6 +119,32 @@
           "name": "有道云笔记",
           "link": "https://note.youdao.com/",
           "desc": "记录，成为更好的自己"
+        }
+      ]
+    },
+    {
+      "corporation": "AI Models",
+      "website": "#",
+      "models": [
+        {
+          "name": "Hugging Face",
+          "link": "https://huggingface.co/",
+          "desc": "The AI community building the future"
+        },
+        {
+          "name": "ModelScope",
+          "link": "https://www.modelscope.cn/",
+          "desc": "共享 · 共创 · 共进，构建持续创新的 AI 开源生态"
+        },
+        {
+          "name": "Gitee AI",
+          "link": "https://ai.gitee.com/",
+          "desc": "开发 AI 应用从此简单"
+        },
+        {
+          "name": "Huggingface 镜像站",
+          "link": "https://hf-mirror.com/",
+          "desc": "一站式AI开发体验"
         }
       ]
     },
