@@ -23,6 +23,11 @@
           "name": "通义智文",
           "link": "https://tongyi.aliyun.com/zhiwen",
           "desc": "更懂你的AI阅读助手"
+        },
+        {
+          "name": "平头哥云上实验室",
+          "link": "https://www.xrvm.cn/community/cloudlab",
+          "desc": "引领 RISC-V 国内外标准制定"
         }
       ]
     },

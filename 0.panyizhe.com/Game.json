@@ -22,6 +22,20 @@
       "color": "rgb(102,224,255)"
     },
     {
+      "pName": "Steam",
+      "uName": "",
+      "link": "https://store.steampowered.com/",
+      "intro": "欢迎来到Steam",
+      "color": "rgb(20,72,123)"
+    },
+    {
+      "pName": "Epic",
+      "uName": "",
+      "link": "https://store.epicgames.com/zh-CN/",
+      "intro": "Epic游戏商城",
+      "color": "rgb(24,24,28)"
+    },
+    {
       "pName": "森空岛",
       "uName": "",
       "link": "https://www.skland.com/",
@@ -34,13 +48,20 @@
       "link": "https://www.kurobbs.com/",
       "intro": "库洛游戏官方社区",
       "color": "rgb(230,235,239)"
+    },
+    {
+      "pName": "4399",
+      "uName": "",
+      "link": "https://www.4399.com/",
+      "intro": "小游戏大全",
+      "color": "rgb(0,209,13)"
     }
   ],
   "games": [
     {
       "gameName": "英雄联盟",
-      "userName": "...",
-      "link": "https://live.bilibili.com/6",
+      "userName": "ZzzBear",
+      "link": "https://lol.qq.com/",
       "moreInfo": "S4网三弗雷尔卓德<br><a href='https://live.bilibili.com/6' target='_blank' rel='noopener noreferrer'>因为热爱，所以联盟</a>",
       "like": 5,
       "love": {
@@ -66,7 +87,7 @@
       "moreInfo": "官服开服玩家<br><a href='https://docs.qq.com/doc/DVHhxbUpad0VLd2hj' target='_blank' rel='noopener noreferrer'>愿此行, 终抵群星</a>",
       "like": false,
       "love": {
-        "flag": false,
+        "flag": true,
         "route": "sr"
       }
     },
@@ -74,7 +95,7 @@
       "gameName": "绝区零",
       "userName": "???",
       "link": "https://zzz.mihoyo.com/",
-      "moreInfo": "期待!!!<br>Zenless Zone Zero",
+      "moreInfo": "Zenless Zone Zero 7.4公测！",
       "like": false,
       "love": {
         "flag": false,
@@ -93,6 +114,13 @@
       "userName": "...",
       "link": "https://www.cbjq.com",
       "moreInfo": "此刻，踏入禁区",
+      "like": false
+    },
+    {
+      "gameName": "赛尔号",
+      "userName": "...",
+      "link": "https://seer.61.com/",
+      "moreInfo": "寻找无尽能源",
       "like": false
     }
   ],

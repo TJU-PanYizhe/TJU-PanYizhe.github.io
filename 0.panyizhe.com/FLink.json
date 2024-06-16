@@ -34,6 +34,10 @@
       {
         "name": "DeepL",
         "url": "https://www.deepl.com/zh/translator"
+      },
+      {
+        "name": "模之屋",
+        "url": "https://www.aplaybox.com/"
       }
     ]
   }
