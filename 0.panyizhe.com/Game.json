@@ -93,12 +93,12 @@
     },
     {
       "gameName": "绝区零",
-      "userName": "???",
+      "userName": "...",
       "link": "https://zzz.mihoyo.com/",
-      "moreInfo": "Zenless Zone Zero 7.4公测！",
+      "moreInfo": "官服开服玩家<br><a href='https://docs.qq.com/doc/DVFFOSWxoZk9xckNE' target='_blank' rel='noopener noreferrer'>欢迎来到新艾利都</a>",
       "like": false,
       "love": {
-        "flag": false,
+        "flag": true,
         "route": "zzz"
       }
     },

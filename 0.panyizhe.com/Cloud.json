@@ -124,6 +124,11 @@
           "name": "有道云笔记",
           "link": "https://note.youdao.com/",
           "desc": "记录，成为更好的自己"
+        },
+        {
+          "name": "腾讯微云",
+          "link": "https://www.weiyun.com/",
+          "desc": "智能云盘"
         }
       ]
     },
