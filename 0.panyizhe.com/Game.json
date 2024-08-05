@@ -122,6 +122,13 @@
       "link": "https://seer.61.com/",
       "moreInfo": "寻找无尽能源",
       "like": false
+    },
+    {
+      "gameName": "鸣潮",
+      "userName": "...",
+      "link": "https://mc.kurogames.com/",
+      "moreInfo": "鸣潮往复 文明不屈",
+      "like": false
     }
   ],
   "future_games": [
@@ -141,6 +148,18 @@
       "gameName": "二重螺旋",
       "userName": "???",
       "link": "https://dna.yingxiong.com/",
+      "moreInfo": "观望..."
+    },
+    {
+      "gameName": "晴空之下",
+      "userName": "???",
+      "link": "https://www.taptap.cn/app/241049",
+      "moreInfo": "观望..."
+    },
+    {
+      "gameName": "异环",
+      "userName": "???",
+      "link": "https://yh.wanmei.com",
       "moreInfo": "观望..."
     }
   ]

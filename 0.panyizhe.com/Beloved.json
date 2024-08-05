@@ -15,8 +15,22 @@
       "hollow": true
     },
     {
+      "content": "<a href='https://www.bilibili.com/video/BV1tLafeSEuZ/' target='_blank'>我们来看老薛的三巡啦！</a>",
+      "timestamp": "2024.07.13",
+      "size": "large",
+      "type": "primary",
+      "icon": "Check"
+    },
+    {
       "content": "憨憨的也很可爱#17👀<br>新深渊咋去啊，没法传送啊<br>9暴击率海森，有人不升圣遗物打深渊",
       "timestamp": "2024.07.06",
+      "size": "large",
+      "type": "primary",
+      "icon": "Check"
+    },
+    {
+      "content": "{秦皇岛}",
+      "timestamp": "2024.06.21～2024.06.23",
       "size": "large",
       "type": "primary",
       "icon": "Check"

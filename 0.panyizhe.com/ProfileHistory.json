@@ -2,11 +2,18 @@
     "updateDate": "0728",
     "profiles": [
         {
+            "avatar": "柯南",
+            "nickName": "PlaYerZhe",
+            "startYear": 2024,
+            "motto": "一个爱玩游戏的研究生",
+            "more": "<a href='https://www.bilibili.com/video/BV1cf421i7AG/' target='_blank' rel='noopener noreferrer'>23岁生日快乐</a>"
+        },
+        {
             "avatar": "齐天大圣",
             "nickName": "OneRisePan",
             "startYear": 2023,
-            "motto": "集中一点，登峰造极",
-            "more": "<a href='https://www.bilibili.com/video/BV1zV411V7rr' target='_blank' rel='noopener noreferrer'>22岁生日快乐</a>"
+            "motto": "集中一点，登峰造极！投资未来，世界皆舞台！",
+            "more": "<a href='https://www.bilibili.com/video/BV1zV411V7rr/' target='_blank' rel='noopener noreferrer'>22岁生日快乐</a>"
         },
         {
             "avatar": "钢铁侠",
