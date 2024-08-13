@@ -163,6 +163,11 @@
       "website": "#",
       "models": [
         {
+          "name": "LiblibAI",
+          "link": "https://www.liblib.art/",
+          "desc": "中国领先的AI创作平台"
+        },
+        {
           "name": "PromeAI",
           "link": "https://www.ishencai.com/",
           "desc": "让创意照进现实<br>尺寸外扩 - 背景生成 - 图生视频"
