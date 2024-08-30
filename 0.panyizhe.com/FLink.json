@@ -42,6 +42,14 @@
       {
         "name": "Smallpdf",
         "url": "https://smallpdf.com/cn"
+      },
+      {
+        "name": "自媒体社区",
+        "url": "https://assist.zmtsq.cn/"
+      },
+      {
+        "name": "BootStrap",
+        "url": "https://getbootstrap.com/"
       }
     ]
   }
