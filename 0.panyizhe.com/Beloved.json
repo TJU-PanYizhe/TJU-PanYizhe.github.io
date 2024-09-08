@@ -15,6 +15,20 @@
       "hollow": true
     },
     {
+      "content": "二周年快乐！！",
+      "timestamp": "2024.08.27",
+      "size": "large",
+      "type": "primary",
+      "icon": "Check"
+    },
+    {
+      "content": "<a href='https://www.bilibili.com/video/BV1MZs4ejEzM/' target='_blank'>人在前面飞，魂在后面追🎢</a>",
+      "timestamp": "2024.08.24",
+      "size": "large",
+      "type": "primary",
+      "icon": "Check"
+    },
+    {
       "content": "<a href='https://www.bilibili.com/video/BV1tLafeSEuZ/' target='_blank'>我们来看老薛的三巡啦！</a>",
       "timestamp": "2024.07.13",
       "size": "large",

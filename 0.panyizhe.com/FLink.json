@@ -50,6 +50,10 @@
       {
         "name": "BootStrap",
         "url": "https://getbootstrap.com/"
+      },
+      {
+        "name": "Shields.io",
+        "url": "https://shields.io/"
       }
     ]
   }
