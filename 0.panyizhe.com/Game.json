@@ -103,6 +103,20 @@
       }
     },
     {
+      "gameName": "赛尔号",
+      "userName": "...",
+      "link": "https://seer.61.com/",
+      "moreInfo": "寻找无尽能源",
+      "like": false
+    },
+    {
+      "gameName": "仙境传说RO：守护永恒的爱",
+      "userName": "...",
+      "link": "https://ro.com/",
+      "moreInfo": "贯彻初心的力量",
+      "like": false
+    },
+    {
       "gameName": "崩坏3",
       "userName": "...",
       "link": "https://bh3.mihoyo.com/",
@@ -114,13 +128,6 @@
       "userName": "...",
       "link": "https://www.cbjq.com",
       "moreInfo": "此刻，踏入禁区",
-      "like": false
-    },
-    {
-      "gameName": "赛尔号",
-      "userName": "...",
-      "link": "https://seer.61.com/",
-      "moreInfo": "寻找无尽能源",
       "like": false
     },
     {
