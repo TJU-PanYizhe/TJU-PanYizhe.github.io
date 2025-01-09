@@ -95,6 +95,11 @@
       "website": "#",
       "models": [
         {
+          "name": "米哈游云游戏",
+          "link": "https://mhyy.mihoyo.com/",
+          "desc": "米哈云游"
+        },
+        {
           "name": "网易云游戏",
           "link": "https://cg.163.com/",
           "desc": "海量游戏即点即玩"
@@ -129,6 +134,31 @@
           "name": "腾讯微云",
           "link": "https://www.weiyun.com/",
           "desc": "智能云盘"
+        },
+        {
+          "name": "飞书",
+          "link": "https://www.feishu.cn/",
+          "desc": "先进团队，先用飞书"
+        },
+        {
+          "name": "百度网盘",
+          "link": "https://pan.baidu.com/",
+          "desc": "百度网盘"
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://www.alipan.com/",
+          "desc": "安全、高效、开放"
+        },
+        {
+          "name": "迅雷云盘",
+          "link": "https://pan.xunlei.com/",
+          "desc": "迅雷云盘"
+        },
+        {
+          "name": "夸克网盘",
+          "link": "https://pan.quark.cn/",
+          "desc": "电脑高效拍档 一键存爽快看"
         }
       ]
     },

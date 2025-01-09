@@ -81,17 +81,6 @@
       }
     },
     {
-      "gameName": "崩坏：星穹铁道",
-      "userName": "...",
-      "link": "https://sr.mihoyo.com/",
-      "moreInfo": "官服开服玩家<br><a href='https://docs.qq.com/doc/DVHhxbUpad0VLd2hj' target='_blank' rel='noopener noreferrer'>愿此行, 终抵群星</a>",
-      "like": false,
-      "love": {
-        "flag": true,
-        "route": "sr"
-      }
-    },
-    {
       "gameName": "绝区零",
       "userName": "...",
       "link": "https://zzz.mihoyo.com/",
@@ -100,6 +89,17 @@
       "love": {
         "flag": true,
         "route": "zzz"
+      }
+    },
+    {
+      "gameName": "崩坏：星穹铁道",
+      "userName": "...",
+      "link": "https://sr.mihoyo.com/",
+      "moreInfo": "官服开服玩家<br><a href='https://docs.qq.com/doc/DVHhxbUpad0VLd2hj' target='_blank' rel='noopener noreferrer'>愿此行, 终抵群星</a>",
+      "like": false,
+      "love": {
+        "flag": true,
+        "route": "sr"
       }
     },
     {
@@ -161,6 +161,18 @@
       "gameName": "异环",
       "userName": "???",
       "link": "https://yh.wanmei.com",
+      "moreInfo": "观望..."
+    },
+    {
+      "gameName": "无限大",
+      "userName": "???",
+      "link": "https://ananta.163.com/",
+      "moreInfo": "观望..."
+    },
+    {
+      "gameName": "望月",
+      "userName": "???",
+      "link": "https://wy.shiyue.com/",
       "moreInfo": "观望..."
     }
   ]
